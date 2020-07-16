@@ -12,7 +12,7 @@ github_repo: "https://github.com/CLOUD9-x" # you code repository
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "I say NO!"
-sidebar-avatar: /img/QQ图片20200716201854.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/20200716201854.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
